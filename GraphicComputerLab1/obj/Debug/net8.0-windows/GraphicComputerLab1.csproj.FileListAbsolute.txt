@@ -1,0 +1,16 @@
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\bin\Debug\net8.0-windows\GraphicComputerLab1.exe
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\bin\Debug\net8.0-windows\GraphicComputerLab1.deps.json
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\bin\Debug\net8.0-windows\GraphicComputerLab1.runtimeconfig.json
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\bin\Debug\net8.0-windows\GraphicComputerLab1.dll
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\bin\Debug\net8.0-windows\GraphicComputerLab1.pdb
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.Form1.resources
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.csproj.GenerateResource.cache
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.AssemblyInfoInputs.cache
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.AssemblyInfo.cs
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.csproj.CoreCompileInputs.cache
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.dll
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\refint\GraphicComputerLab1.dll
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.pdb
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\GraphicComputerLab1.genruntimeconfig.cache
+C:\Проекты\GraphicComputerLab1\GraphicComputerLab1\obj\Debug\net8.0-windows\ref\GraphicComputerLab1.dll
