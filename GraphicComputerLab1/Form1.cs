@@ -224,7 +224,20 @@ namespace GraphicComputerLab1
 
         private void topHatToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Filters fil = new TopHat();
+            backgroundWorker1.RunWorkerAsync(fil);
+        }
 
+        private void blackHatToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters fil = new BlackHat();
+            backgroundWorker1.RunWorkerAsync(fil);
+        }
+
+        private void gradToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters fil = new MorphologicalGradient();
+            backgroundWorker1.RunWorkerAsync(fil);
         }
     }
 }

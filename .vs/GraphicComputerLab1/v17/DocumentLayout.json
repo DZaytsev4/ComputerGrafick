@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\computergrafick\\graphiccomputerlab1\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|solutionrelative:graphiccomputerlab1\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\computergrafick\\graphiccomputerlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|solutionrelative:graphiccomputerlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\computergrafick\\graphiccomputerlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EA0E298-A5FF-41B4-963A-FBB3164D621C}|GraphicComputerLab1\\GraphicComputerLab1.csproj|solutionrelative:graphiccomputerlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Filters.cs",
+              "RelativeDocumentMoniker": "GraphicComputerLab1\\Filters.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Filters.cs",
+              "RelativeToolTip": "GraphicComputerLab1\\Filters.cs",
+              "ViewState": "AQIAAD8CAAAAAAAAAAAmwI4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:02:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Form1.cs",
+              "RelativeDocumentMoniker": "GraphicComputerLab1\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Form1.cs",
+              "RelativeToolTip": "GraphicComputerLab1\\Form1.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAswO8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:02:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Form1.cs",
+              "RelativeDocumentMoniker": "GraphicComputerLab1\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ComputerGrafick\\GraphicComputerLab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "GraphicComputerLab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:02:11.903Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

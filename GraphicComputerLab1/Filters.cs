@@ -576,6 +576,79 @@ namespace GraphicComputerLab1
 
         }
     }
-    
 
+    class TopHat : Filters
+    {
+        private Dilation dilation;
+        private Erosion erosion;
+
+        public TopHat()
+        {
+            dilation = new Dilation();
+            erosion = new Erosion();
+        }
+
+        protected override Color calculateNewPixelColor(Bitmap sourceImage, int x, int y)
+        {
+            Color eroded = erosion.GetColor(sourceImage, x, y);
+            Color dilated = dilation.GetColor(sourceImage, x, y);
+            Color original = sourceImage.GetPixel(x, y);
+
+            // Вычитаем открытие из исходного изображения
+            int R = Clamp(original.R - eroded.R, 0, 255);
+            int G = Clamp(original.G - eroded.G, 0, 255);
+            int B = Clamp(original.B - eroded.B, 0, 255);
+
+            return Color.FromArgb(R, G, B);
+        }
+    }
+    class BlackHat : Filters
+    {
+        private Dilation dilation;
+        private Erosion erosion;
+
+        public BlackHat()
+        {
+            dilation = new Dilation();
+            erosion = new Erosion();
+        }
+
+        protected override Color calculateNewPixelColor(Bitmap sourceImage, int x, int y)
+        {
+            Color dilated = dilation.GetColor(sourceImage, x, y);
+            Color eroded = erosion.GetColor(sourceImage, x, y);
+            Color original = sourceImage.GetPixel(x, y);
+
+            // Вычитаем исходное изображение из закрытия
+            int R = Clamp(dilated.R - original.R, 0, 255);
+            int G = Clamp(dilated.G - original.G, 0, 255);
+            int B = Clamp(dilated.B - original.B, 0, 255);
+
+            return Color.FromArgb(R, G, B);
+        }
+    }
+    class MorphologicalGradient : Filters
+    {
+        private Dilation dilation;
+        private Erosion erosion;
+
+        public MorphologicalGradient()
+        {
+            dilation = new Dilation();
+            erosion = new Erosion();
+        }
+
+        protected override Color calculateNewPixelColor(Bitmap sourceImage, int x, int y)
+        {
+            Color dilated = dilation.GetColor(sourceImage, x, y);
+            Color eroded = erosion.GetColor(sourceImage, x, y);
+
+            // Разница между дилатацией и эрозией
+            int R = Clamp(dilated.R - eroded.R, 0, 255);
+            int G = Clamp(dilated.G - eroded.G, 0, 255);
+            int B = Clamp(dilated.B - eroded.B, 0, 255);
+
+            return Color.FromArgb(R, G, B);
+        }
+    }
 }
